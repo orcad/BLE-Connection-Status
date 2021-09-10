@@ -2,7 +2,7 @@
 /**
  * \ BLE Interface
  * \ Status Message
- *
+ * \ By Engineer: Firas Faham
  * This API is used to handle incoming status messages.
  * It prints all status messages, If DISCONNECT or STREAM_OPEN is received it manages
  * the state of bool connected.
