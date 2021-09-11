@@ -1,3 +1,0 @@
-Status of BLE Server
-
-The Server BLE Module sends the connection status to MCU and the MCU checks the connection status by using C code. Once the status is verified it is then reflected in the Client unit.
